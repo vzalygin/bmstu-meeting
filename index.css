@@ -1,29 +1,29 @@
 .horizontal {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    align-items: stretch;
+    display: flex !important;
+    justify-content: space-evenly !important;
+    align-items: center !important;
+    align-items: stretch !important;
 }
 
 .text-block {
-    display: flex;
-    justify-self: left;
-    flex-direction: column;
-    max-width: 50%;
+    display: flex !important;
+    justify-self: left !important;
+    flex-direction: column !important;
+    max-width: 50% !important;
 }
 
 .quote {
-    margin: 10px;
-    text-align: justify;
-    font-size: 24px;
+    margin: 10px !important;
+    text-align: justify !important;
+    font-size: 24px !important;
 }
 
 iframe {
-    width: 1200px;
-    height: 550px;
+    width: 1200px !important;
+    height: 550px !important;
 }
 
 .text {
-    display: block;
-    text-align: justify;
+    display: block !important;
+    text-align: justify!important;
 }
