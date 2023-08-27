@@ -1,0 +1,18 @@
+.horizontal {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    align-items: flex-start;
+}
+
+.text-block {
+    display: flex;
+    justify-self: left;
+    flex-direction: column;
+    max-width: 50%;
+}
+
+.quote {
+    text-align: left;
+    font-size: large;
+}
