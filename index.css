@@ -6,6 +6,7 @@
 }
 
 .text-block {
+    margin: 10px;
     display: flex;
     justify-self: left;
     flex-direction: column;
@@ -18,12 +19,11 @@
     font-size: 24px;
 }
 
-iframe {
-    width: 1200px;
-    height: 550px;
-}
-
 .text {
     display: block;
     text-align: justify;
+}
+
+img {
+    margin: 5px;
 }
